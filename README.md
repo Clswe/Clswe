@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho como front-end
 - 🌱 Estudando Angular js
 ##
 <div>
