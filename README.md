@@ -3,7 +3,7 @@
 <div>
 <a href="https://github.com/Clswe">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clswe&theme=midnight-purple&show_icons=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clswe&layout=compact&langs_count=16&theme=midnight-purple"/> -->
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clswe&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
   
