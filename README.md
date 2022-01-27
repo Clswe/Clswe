@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Cristian Silva  👋
 
 
-
-
 - 🔭 Hoje trabalho como front-end
 - 🌱 Estudando Angular js
 ##
