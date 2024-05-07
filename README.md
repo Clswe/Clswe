@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, Java, Python Node.JS**
 
-- ⚡ Fun fact **Oneye 😜**
+
 
 
 <!--
